@@ -1,5 +1,3 @@
-duncan-birtwistle.github.io
-===========================
 ##Duncan Birtwistle
 
 ![](http://duncanbirtwistle.com/staging/theme/assets/img/headshot.png)
