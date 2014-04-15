@@ -1,4 +1,4 @@
-##Duncan Birtwistle
+##Resume
 
 ![](http://duncanbirtwistle.com/staging/theme/assets/img/headshot.png)
 
