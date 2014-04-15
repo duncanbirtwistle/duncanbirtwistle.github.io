@@ -4,7 +4,7 @@
 
 ####PROFILE
 
-I am a Bristol Univeristy civil engineering undergraduate interested in design and business. I'm currently helping the National Trust to better manage its reservoirs portfolio.
+I am a Bristol Univeristy civil engineering undergraduate interested in design and business. I'm currently helping the National Trust to better manage its reservoir portfolio.
 
 In my spare time I enjoy getting active outdoor running, orienteering and cycling.
 
